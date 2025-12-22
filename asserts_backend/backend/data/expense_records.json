@@ -1,0 +1,34 @@
+[
+  {
+    "food": 30,
+    "gifts": 0,
+    "medicalInsurance": 0,
+    "transport": 0,
+    "housingUtilities": 0,
+    "entertainment": 0,
+    "dailyNecessities": 0,
+    "clothing": 0,
+    "pets": 0,
+    "travel": 0,
+    "total": 30,
+    "month": "2025-12",
+    "id": "1766235212.954116",
+    "date": "2025-12-31"
+  },
+  {
+    "food": 30,
+    "gifts": 30,
+    "medicalInsurance": 0,
+    "transport": 0,
+    "housingUtilities": 0,
+    "entertainment": 0,
+    "dailyNecessities": 0,
+    "clothing": 0,
+    "pets": 0,
+    "travel": 0,
+    "total": 60,
+    "month": "2025-12",
+    "id": "1766240097.96437",
+    "date": "2025-12-31"
+  }
+]

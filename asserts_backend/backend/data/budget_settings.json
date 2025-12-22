@@ -1,0 +1,24 @@
+{
+  "monthly": {},
+  "default": {
+    "necessary": {
+      "total": 1000
+    },
+    "discretionary": {
+      "total": 0
+    },
+    "categories": {
+      "food": 1000,
+      "gifts": 0,
+      "medicalInsurance": 0,
+      "transport": 0,
+      "housingUtilities": 0,
+      "entertainment": 0,
+      "dailyNecessities": 0,
+      "clothing": 0,
+      "pets": 0,
+      "travel": 0
+    },
+    "total": 1000
+  }
+}

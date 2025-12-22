@@ -1,0 +1,47 @@
+[
+  {
+    "title": "看电视",
+    "content": "",
+    "tags": [],
+    "type": "thought",
+    "id": "1766234048.339745339780",
+    "addedAt": "2025-12-20T20:34:08.339784",
+    "lastRecommendedAt": "2025-12-20T20:44:11.258398"
+  },
+  {
+    "title": "测试随机漫步记录",
+    "content": "这是一条测试记录",
+    "tags": [
+      "测试",
+      "API"
+    ],
+    "type": "thought",
+    "id": "1766235993.780469780496",
+    "addedAt": "2025-12-20T21:06:33.780499",
+    "lastRecommendedAt": null
+  },
+  {
+    "title": "测试随机漫步",
+    "content": "这是测试内容",
+    "tags": [
+      "测试",
+      "新功能"
+    ],
+    "type": "thought",
+    "id": "1766236136.323517323535",
+    "addedAt": "2025-12-20T21:08:56.323540",
+    "lastRecommendedAt": null
+  },
+  {
+    "title": "测试随机漫步2",
+    "content": "这是测试内容2",
+    "tags": [
+      "测试2",
+      "新功能2"
+    ],
+    "type": "thought",
+    "id": "1766236165.301132301149",
+    "addedAt": "2025-12-20T21:09:25.301153",
+    "lastRecommendedAt": null
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1766236137.676526",
+    "month": "2025-12",
+    "category": "food",
+    "oldAmount": 0,
+    "newAmount": 1000,
+    "timestamp": "2025-12-20T21:08:57.676535",
+    "type": "default_budget_change"
+  },
+  {
+    "id": "1766236175.192119",
+    "month": "2025-12",
+    "category": "food",
+    "oldAmount": 1000,
+    "newAmount": 1000,
+    "timestamp": "2025-12-20T21:09:35.192131",
+    "type": "default_budget_change"
+  }
+]
