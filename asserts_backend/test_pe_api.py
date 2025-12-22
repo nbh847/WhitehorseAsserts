@@ -3,7 +3,7 @@ import json
 
 # 测试股票代码（三一重工）
 stock_code = "600031"
-url = f"http://localhost:5001/api/stocks/real-time/{stock_code}"
+url = f"http://192.3.252.100:5001/api/stocks/real-time/{stock_code}"
 
 print(f"Testing API: {url}")
 

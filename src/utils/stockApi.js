@@ -1,7 +1,7 @@
 class StockApi {
   constructor() {
     // 后端API基础URL
-    this.baseUrl = 'http://localhost:5001/api/stocks';
+    this.baseUrl = 'http://192.3.252.100:5001/api/stocks';
     
     // 本地股票数据缓存 - 用于API调用失败时的降级处理
     this.stockCache = {};

@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 async function testFrontendData() {
   // 测试股票代码：三一重工
   const symbol = '600031';
-  const apiUrl = `http://localhost:5001/api/stocks/real-time/${symbol}`;
+  const apiUrl = `http://192.3.252.100:5001/api/stocks/real-time/${symbol}`;
   
   console.log('测试前端API调用...');
   console.log(`请求URL: ${apiUrl}`);

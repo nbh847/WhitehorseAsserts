@@ -3,7 +3,7 @@ import requests
 # 测试调用股票实时数据API
 try:
     stock_code = "600031"
-    url = f"http://localhost:5001/api/stocks/real-time/{stock_code}"
+    url = f"http://192.3.252.100:5001/api/stocks/real-time/{stock_code}"
     print(f"正在调用API: {url}")
     
     response = requests.get(url)
