@@ -1281,7 +1281,8 @@ def delete_budget_history_record(id):
     
     return jsonify(deleted_record)
 
+
 if __name__ == '__main__':
-    port = int(os.getenv('FLASK_RUN_PORT', 5000))
-    host = os.getenv('FLASK_RUN_HOST', '127.0.0.1')
+    port = int(os.getenv('FLASK_RUN_PORT', 5001))
+    host = os.getenv('FLASK_RUN_HOST', '0.0.0.0')
     app.run(debug=True, port=port, host=host)
