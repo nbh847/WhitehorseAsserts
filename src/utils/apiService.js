@@ -3,7 +3,7 @@
 class ApiService {
   constructor() {
     // 后端API基础URL
-    this.baseUrl = 'http://localhost:5001/api';
+    this.baseUrl = 'http://192.3.252.100:5001/api';
   }
 
   // 通用请求方法
